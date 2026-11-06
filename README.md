@@ -1,8 +1,16 @@
 # Anandhu Ashok
 
-Software developer in Kottayam, Kerala. Cybersecurity, distributed systems, and network defense.
+Cybersecurity and software developer in Kottayam, Kerala.
 
-Software Developer at Digital University Kerala, on the development team of the Network and Systems Security Lab. Portfolio: [anandhx.github.io](https://anandhx.github.io/)
+Network defense, security automation, and web applications. Software Developer at Digital University Kerala, Network and Systems Security Lab.
+
+Portfolio: [anandhx.github.io](https://anandhx.github.io/)
+
+## Skills
+
+| Cybersecurity | Software development |
+| --- | --- |
+| Network defense, security automation, phishing detection, firewall baselines, runtime detection, incident response | Python, Flask, PHP, MySQL, JavaScript, TypeScript, Flutter, Linux, Git |
 
 ## Experience
 
@@ -13,26 +21,6 @@ Software Developer at Digital University Kerala, on the development team of the 
 | Python Developer | MGU Innovation Foundation | June 2024 – September 2024 |
 | IT Administrator | MES Golden Jubilee College, Kottayam | April 2024 – June 2024 |
 
-## Work
-
-Private projects are named on the portfolio and are not linked here.
-
-| Project | Visibility | Summary |
-| --- | --- | --- |
-| ASPER Dashboard | Private | Dashboard, login, and offline Docker release for Project ASPER |
-| PhishAlert | Private | Phishing detection for web and Flutter |
-| MediSmart | Private | Kerala pharmacy application |
-| Cafe Billing | Private | Offline billing, accounts, and reports |
-| Dormetry | Private | Railway dormitory booking |
-| WaitHall | Private | Waiting-hall seat booking |
-| [College Canteen](https://github.com/anandhx/college-canteen-mini-project) | Public | PHP and MySQL campus ordering |
-| [Kerala Radio](https://github.com/anandhx/Kerala-Radio) | Public | Flask player for Kerala radio stations |
-| [MES College Kottayam](https://github.com/anandhx/mes-kottayam) | Public | College website |
-
-## Education
-
-BCA, MES Golden Jubilee College, Mahatma Gandhi University, Kottayam, 2021–2024.
-
-Introduction to Programming Using Python, Kaggle, April 2024.
+Private projects, including ASPER Dashboard, PhishAlert, MediSmart, Cafe Billing, Dormetry, and WaitHall, are named on the portfolio.
 
 [Portfolio](https://anandhx.github.io) · [anandhuashok6959@gmail.com](mailto:anandhuashok6959@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anandhu-ashok/)
