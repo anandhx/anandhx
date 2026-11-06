@@ -1,29 +1,41 @@
 # Anandhu Ashok
 
-Software developer, Kottayam, Kerala. Web applications and defensive security.
+Software Developer, Digital University Kerala. Kottayam, Kerala.
 
-BCA, MES College Kottayam. Primary languages are Python and PHP, with JavaScript, HTML, CSS, and MySQL. Security work covers firewall baselines, runtime detection, and network security.
+Software developer focused on cybersecurity, distributed systems, and network defense. Development team, Network and Systems Security Lab.
+
+## Experience
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| Software Developer | Digital University Kerala, Technopark | March 2025 – Present |
+| Freelance Developer | Kottayam | February 2024 – Present |
+| Python Developer | MGU Innovation Foundation | June 2024 – September 2024 |
+| IT Administrator | MES Golden Jubilee College, Kottayam | April 2024 – June 2024 |
+
+Current work is with the Network and Systems Security Lab. The lab builds Project ASPER, a MeitY-funded security automation system for enterprise networks, with Tata Elxsi.
 
 ## Practice
 
 | Area | Scope |
 | --- | --- |
-| Application development | PHP and MySQL web systems. Python and Flask services and automation. HTML, CSS, and JavaScript interfaces. |
-| Security | Firewall configuration review, security baselines, Linux runtime detection. |
-| Networking | Software-defined network labs, segmentation, and traffic inspection. |
+| Application development | PHP and MySQL web systems. Python and Flask services, automation, and Telegram bots. HTML, CSS, and JavaScript interfaces. Flutter for mobile clients. |
+| Security | Phishing detection, image forgery analysis, firewall baselines, and Linux runtime detection. |
+| Networking | Network defense, software-defined network labs, segmentation, and traffic inspection. |
 
-## Projects
+## Selected work
 
-| Project | Stack | Summary |
-| --- | --- | --- |
-| [College Canteen](https://github.com/anandhx/college-canteen-mini-project) | PHP, MySQL | Canteen operations: menu, hours, and ordering |
-| [Kerala Radio](https://github.com/anandhx/Kerala-Radio) | Python, Flask | Web player for Kerala radio stations |
-| [Nursing Locker](https://github.com/anandhx/Nursing-Locker) | HTML | BSc Nursing question papers and notes |
-| [Bus World Erumeli](https://github.com/anandhx/bus-world-erumely) | HTML, CSS | Site for a vehicle accessories business |
-| [Serena](https://github.com/anandhx/Serena) | Python | Virtual assistant |
-| [Task Management](https://github.com/anandhx/Task-Management-System) | Python | Task tracking application |
+| Project | Summary |
+| --- | --- |
+| PhishAlert | AI phishing detection for the web and a Flutter app |
+| Image Forgery Detection | Flask application for manipulated-image analysis |
+| Tech Guard | Web and Telegram assistant with security alerts |
+| BridgexJobsBot | Python job alerts via Telegram, with resume scoring |
+| [College Canteen](https://github.com/anandhx/college-canteen-mini-project) | PHP and MySQL campus ordering system |
+| [Kerala Radio](https://github.com/anandhx/Kerala-Radio) | Flask player for Kerala radio stations |
+| [MES College Kottayam](https://github.com/anandhx/mes-kottayam) | Official college website |
 
-## Security
+## Security engineering
 
 | Domain | Tooling |
 | --- | --- |
@@ -31,8 +43,16 @@ BCA, MES College Kottayam. Primary languages are Python and PHP, with JavaScript
 | Firewall operations | Sophos Firewall baseline audits, Ansible automation |
 | Network labs | Mininet |
 
+Defense Strategies and Incident Response in the Era of AI-Driven Malware, Society for Electronic Transactions and Security, Chennai.
+
+## Education
+
+BCA, MES Golden Jubilee College, Mahatma Gandhi University, Kottayam, 2021–2024.
+
+Introduction to Programming Using Python, Kaggle, April 2024.
+
 ## Technologies
 
-Python, PHP, JavaScript, HTML, CSS, MySQL, Flask, Java, Linux, Git
+Python, PHP, JavaScript, HTML, CSS, MySQL, Flask, Flutter, Java, Linux, Git
 
-[Portfolio](https://anandhx.github.io) · [anandhuashok6959@gmail.com](mailto:anandhuashok6959@gmail.com)
+[Portfolio](https://anandhx.github.io) · [anandhuashok6959@gmail.com](mailto:anandhuashok6959@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anandhu-ashok/)
